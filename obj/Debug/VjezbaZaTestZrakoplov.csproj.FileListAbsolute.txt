@@ -1,0 +1,11 @@
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\obj\Debug\VjezbaZaTestZrakoplov.csproj.AssemblyReference.cache
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\obj\Debug\VjezbaZaTestZrakoplov.csproj.SuggestedBindingRedirects.cache
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\obj\Debug\VjezbaZaTestZrakoplov.Form1.resources
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\obj\Debug\VjezbaZaTestZrakoplov.Properties.Resources.resources
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\obj\Debug\VjezbaZaTestZrakoplov.csproj.GenerateResource.cache
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\obj\Debug\VjezbaZaTestZrakoplov.csproj.CoreCompileInputs.cache
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\bin\Debug\VjezbaZaTestZrakoplov.exe.config
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\bin\Debug\VjezbaZaTestZrakoplov.exe
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\bin\Debug\VjezbaZaTestZrakoplov.pdb
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\obj\Debug\VjezbaZaTestZrakoplov.exe
+C:\Domenik\Visual Studio\C#\VjezbaZaTestZrakoplov\VjezbaZaTestZrakoplov\obj\Debug\VjezbaZaTestZrakoplov.pdb
